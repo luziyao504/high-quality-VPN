@@ -63,6 +63,12 @@
 | itdog.cn | [itdog.cn](https://www.itdog.cn) | 国内站长工具，全国节点 ping / 路由追踪 |
 | boce.com | [boce.com](https://www.boce.com) | 国内多地区 ping 检测 |
 
+### 🌐 高质量机场
+
+| 网站 | 网址 | 备注 |
+|---|---|---|
+| CyberGuard | [cyberguard.top](https://cyberguard.top/#/register?code=PgVpysvG) | 需要外网访问 |
+
 ---
 
 ## ⚠️ 几点提醒
